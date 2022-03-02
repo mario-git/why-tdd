@@ -22,7 +22,7 @@ In a week time, if you feel less scared, you might be ready to know a bit more a
 
 - [an article](https://www.codecademy.com/article/tdd-red-green-refactor) that explains the _red green refactor_ cycle:
 - [a JavaScript TDD starter kit](https://github.com/CodingBlackFemales/tdd-js-starter);
-- the platforms [Codewars](https://www.codewars.com) and [Exercism](https://exercism.org) that provide plenty coding challenges in many languages, with a basic test setup;
+- the platforms [Codewars](https://www.codewars.com) and [Exercism](https://exercism.org) that provide several coding challenges in many languages, with a basic test setup;
 - [CodeKata](http://codekata.com) has interesting ideas for coding challenges, without any code setup.
 
 _What if I want to see how it works in practice right now?_
