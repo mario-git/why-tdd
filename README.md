@@ -8,15 +8,15 @@ _That sounds odd. I'm new to coding and I find already challenging getting any p
 
 Yes, I am sure, it's a great idea. Following this approach has a few, decisive benefits:
 
-- **do one thing at a time in a disciplined manner**. Writing a test before the code, you are forced to think more carefully about the problem at hand. Any problem usually needs to be broken to smaller pieces. Reflecting on a single test, and the single code to be implemented to satisfy the requirement of a test, you are likely to find a better balance to tackle a sensible unit of a sub-problem. This way you end up writing more code, agreed, but the overall complexity to solve the problem can decrease drastically;
+- **do one thing at a time in a disciplined manner**. Writing a test before the code, you are forced to think more carefully about the problem at hand. Any problem usually needs to be broken to smaller pieces. Reflecting on a single test, and the single code to be implemented to satisfy the requirement of a test, you are likely to find a better balance tackling a sensible, single sub-problem. This way you end up writing more code, agreed, but the overall complexity to solve the problem can decrease drastically;
 - **safety net**. Once you have a base of tests, it will provide a safety net when you apply changes to the pre-exsting code, letting you know when changes break a pre-existing requirement;
-- **documentation**. No one remembers all the code they write themselves, therefore neither the one of other people. A healty test code base serves also as comprehensive documentation, very close and updated to the state of the actual code itself.
+- **documentation**. No one remembers all the code they write themselves, therefore neither the one of other people. A healty test code base serves also as a comprehensive documentation, very close and updated to the state of the actual code itself.
 
 _You really sound confident about it, but honestly I don't. I feel like this is yet something else to learn, and my plate was already full._
 
 That's absolutely fine. We've all been there. First time, a new idea might sound odd. The second or the third time you hear it, preferably after a few nights of sleep, it sounds already less odd. Not much longer thereafter, it is just one of the many ideas you heard and, hey, thinking of it might even be intriguing.
 
-So, I'm not prescribing you to learn TDD right now, but I really encourage you to give it a try. To embrace the idea of test code, and the idea of writing test code before the actual code. My reccomendation is: think of it, for a few days. Take a note in your diary or calendar to remember of it, this is my optional take-home assignment.
+So, I'm not saying you should learn TDD right now, but I really encourage you to give it a try. To embrace the idea of test code, and the idea of writing test code before the actual code. My reccomendation is: think of it, for a few days. Take a note in your diary or calendar to remember of it, this is my optional take-home assignment.
 
 In a week time, if you feel less scared, you might be ready to know a bit more and put this idea in practice. Here are some resources we might want to explore then:
 
